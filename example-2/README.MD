@@ -4,7 +4,7 @@ This example uses Terraform to create a private Elastic Container Registry (ECR)
 The code is forked from Ashley Davis's repo and modified to use AWS.   See the writeup
 on getting AWS ready for Terraform at
 https://aptezzo.com/2022/03/20/aws-for-bootstrapping-microservices-with-docker-kubernetes-and-terraform/ or the short
-URL t.ly/dVcp
+URL http://t.ly/dVcp
 
 Run this example using:
 
